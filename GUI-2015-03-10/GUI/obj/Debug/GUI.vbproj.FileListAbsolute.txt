@@ -19,3 +19,7 @@ C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.vbproj.GenerateResource
 C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.exe
 C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.xml
 C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.pdb
+C:\Users\Mats\Source\Repos\Team-6\GUI-2015-03-10\GUI\bin\Debug\GUI.exe.config
+C:\Users\Mats\Source\Repos\Team-6\GUI-2015-03-10\GUI\obj\Debug\GUI.exe
+C:\Users\Mats\Source\Repos\Team-6\GUI-2015-03-10\GUI\obj\Debug\GUI.xml
+C:\Users\Mats\Source\Repos\Team-6\GUI-2015-03-10\GUI\obj\Debug\GUI.pdb
