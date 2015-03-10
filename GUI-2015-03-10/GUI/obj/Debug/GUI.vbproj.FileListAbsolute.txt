@@ -1,0 +1,21 @@
+c:\users\jorid\documents\visual studio 2013\Projects\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\bin\Debug\GUI.exe.config
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\bin\Debug\GUI.exe
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\bin\Debug\GUI.pdb
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\bin\Debug\GUI.xml
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Form2.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Form3.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Form4.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Form5.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Form6.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Form7.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.meny.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.menyrep.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.menytrans.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.Statistikk.resources
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.exe
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.xml
+C:\Users\Supern\Desktop\GUI-2015-03-10\GUI\obj\Debug\GUI.pdb
